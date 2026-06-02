@@ -198,7 +198,3 @@ Inspired by the UI and workflow of Zerodha trading platform for educational and 
 
 ---
 
-
-
-
-
